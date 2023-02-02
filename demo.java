@@ -5,6 +5,7 @@ class Demo {
 
         System.out.println("hello");
         System.out.println("Demo changes made example");
+        System.out.println("Demo 2nd changes made example");
         Demo.m1();
     }
 
