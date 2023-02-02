@@ -1,6 +1,6 @@
 class Demo{
 
 public static void main(String args[]){
-System.out.println("Demo example");
+System.out.println("Demo changes made example");
 }
 }
